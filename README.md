@@ -98,7 +98,7 @@ IDEA → DESIGN → CODE → TEST → DEPLOY
 │                        DEVELOPMENT TOOLS                    │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  IDE              → VS Code                                │
+│  IDE              → Zed                               │
 │  Version Control  → Git / GitHub                            │
 │  Design           → Figma                                   │
 │  Deployment       → Vercel                                  │
