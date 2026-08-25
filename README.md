@@ -20,7 +20,7 @@
 
 ---
 
-# `> whoami`
+# `> Who am i`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -39,7 +39,7 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-## `> Sobre Mim`
+## `> About me`
 
 Sou desenvolvedor com foco principalmente em **desenvolvimento web**, criando sites, sistemas e experiências digitais.
 
